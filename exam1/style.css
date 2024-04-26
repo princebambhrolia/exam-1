@@ -1,0 +1,68 @@
+body{
+    background-color: lightgreen;
+}
+.coffee{
+    background-color: rgb(62, 83, 62);
+    background-size: cover;
+    display:flex ;
+    border: 1px solid black;
+    
+}
+.h4{
+    margin-left:850px;
+    display: flex;
+}
+h4{
+    margin-left: 70px;
+    color: white;
+}
+h3{
+    margin-left: 100px;
+    color: white;
+}
+h1{
+    font-family: 'Rubik Maps', system-ui;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 70px;
+    color: rgb(62, 83, 62) ;
+  
+
+}
+.clone{
+    background-color:lightgreen;
+
+}
+p{
+    margin-top: -85px;
+   font-size: 20px;
+   font-family: 'Geologica', sans-serif;
+   margin-left: 100px;
+
+}
+.yt{
+    background-color: rgb(62, 83, 62) ;
+}
+.yy{
+    display: inline-block
+}
+.yt{
+    margin-left: 1020px;
+    margin-top: -545px;
+}
+button{
+    background-color:  rgb(62, 83, 62);
+    color: white;
+    padding-top: 5px;
+    margin-left: 100px;
+}
+.tr{
+    display: flex;
+    margin-left: 950px;
+    margin-top: -100px;
+  
+}
+.tr:hover{
+    transform: scale(1.2);
+    
+}
